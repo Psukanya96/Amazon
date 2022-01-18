@@ -1,0 +1,135 @@
+body{
+	margin:0px;
+	width:100%;
+	font-family:sans-serif;
+}
+.topimage img{
+	width:100%;
+	height:80px;
+}
+.select{
+	font-family:verdana;
+	font-size:26px;
+	margin-left:180px;
+}
+.box1{
+	float:left;
+	border:1px solid #d5dbdb;
+	width:56%;
+	height:480px;
+	margin-top:20px;
+	margin-left:180px;
+}
+.another{
+	margin-left:20px;
+	margin-top:15px;
+	font-family:sans-serif;
+	font-size:17px;
+	font-weight:bold;
+}
+.sub1{
+	padding:5px;
+	font-size:13px;
+	font-weight:bold;
+	margin-top:30px;
+	margin-left:25px;
+}
+.blu{
+	color:#4169e1;
+}
+.blu:hover{
+	text-decoration:underline;
+	color:#b22222;
+	cursor:pointer;
+}
+.grey{
+	color:grey;
+}
+.youcan{
+	margin-left:55px;
+	margin-top:10px;
+	font-size:12px;
+}
+.card img{
+	margin-left:20px;
+	margin-top:2px;
+	width:420px;
+}
+.choice{
+	margin-left:60px;
+}
+.sub2{
+	padding:5px;
+	margin-top:30px;
+	margin-left:20px;
+}
+.sub3{
+	padding:5px;
+	margin-top:30px;
+	font-size:12px;
+	margin-left:20px;
+}
+.moreoptions{
+	font-size:20px;
+	font-weight:bold;
+	font-family:sans-serif;
+	margin-top:50px;
+}
+.gift{
+	font-size:16px;
+	font-weight:bold;
+	font-family:sans-serif;
+	margin-top:30px;
+}
+.smallgift{
+	margin-top:10px;
+	font-size:12px;
+}
+.amazongc img{
+	position:absolute;
+	margin-left:500px;
+	width:90px;
+	height:60px;
+}
+.bottomm1{
+	margin-top:90px;
+	font-size:11px;
+	margin-left:400px;
+}
+.bottomm2{
+	margin-left:300px;
+	margin-top:10px;
+	font-size:11px;
+}
+.rightside{
+	float:left;
+	padding:7px;
+	margin-top:20px;
+	width:240px;
+	border:1px solid #d5dbdb;
+	margin-left:60px;
+}
+.continue button{
+	margin-top:10px;
+	margin-left:15px;
+	border:1px solid orange;
+	background-color:#f0c14b;
+	width:220px;
+	height:30px;
+	text-align:center;
+}
+.final{
+	margin-left:30px;
+	margin-top:10px;
+	font-size:12px;
+}
+.f{
+	margin-left:90px;
+}
+.rightside1{
+	padding:7px;
+	margin-top:510px;
+	width:240px;
+	border:1px solid #d5dbdb;
+	margin-left:1090px;
+}
